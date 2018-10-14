@@ -2,9 +2,9 @@
 
 Write Automated tests for https://www.capitalfm.com/digital/
 
-**Scenario 1**: Validate if Calvin Harris is 'playing' on 'Capital FM London'.
+**Scenario 1**: Validate if Calvin Harris is 'playing' on **Now playing List** at 'Capital FM London'.
 
-**Scenario 2**: Validate if Calvin Harris was 'played' on 'Capital FM London'.
+**Scenario 2**: Validate if Calvin Harris was 'played' on **Recently played list** at 'Capital FM London'.
 
 # The test suite
 
