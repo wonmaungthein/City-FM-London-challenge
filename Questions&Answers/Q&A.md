@@ -21,11 +21,12 @@ Please highlight what you think it is wrong in the following piece of HTML code 
 </li>
 
 # Answer 2
+
 - In the first line of code, id=user_status need to have " ". eg. id="user_status".
 - There are no quotes around id (it won’t break it but not good code)
 - The page is not accessible. Links should have title for screen readers
 - No quotes around class for list item. Eg. class= “header-user-status_item”.
-- `ul` is not closed at the end. The last closing tag should be (</ul>) rather than (</li>).
+- `ul` is not closed at the end. The last closing tag should be `(</ul>)` rather than `(</li>)`.
 - Instead of using `strong`, we should use CSS to style (not good to use HTML for styling)
 - To open the link in new page, you need `<a target="_blank" href.....>` 
 
