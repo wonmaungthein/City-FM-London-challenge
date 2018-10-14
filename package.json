@@ -1,0 +1,24 @@
+{
+  "name": "city-fm-london-challenge",
+  "version": "1.0.0",
+  "description": "# City-FM-London-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx cypress open",
+    "headless": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonmaungthein/City-FM-London-challenge.git"
+  },
+  "author": "Won",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonmaungthein/City-FM-London-challenge/issues"
+  },
+  "homepage": "https://github.com/wonmaungthein/City-FM-London-challenge#readme",
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  }
+}
