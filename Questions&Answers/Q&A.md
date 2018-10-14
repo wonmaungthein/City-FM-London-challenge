@@ -21,13 +21,13 @@ Please highlight what you think it is wrong in the following piece of HTML code 
 </li>
 
 # Answer 2
-In the first line of code, id=user_status need to have " ". eg. id="user_status".
-There are no quotes around id (it won’t break it but not good code)
-The page is not accessible. Links should have title for screen readers
-No quotes around class for list item. Eg. class= “header-user-status_item”.
-`ul` is not closed at the end. The last closing tag should be (</ul>) rather than (</li>).
-Instead of using `strong`, we should use CSS to style (not good to use HTML for styling)
-To open the link in new page, you need `<a target="_blank" href.....>` 
+- In the first line of code, id=user_status need to have " ". eg. id="user_status".
+- There are no quotes around id (it won’t break it but not good code)
+- The page is not accessible. Links should have title for screen readers
+- No quotes around class for list item. Eg. class= “header-user-status_item”.
+- `ul` is not closed at the end. The last closing tag should be (</ul>) rather than (</li>).
+- Instead of using `strong`, we should use CSS to style (not good to use HTML for styling)
+- To open the link in new page, you need `<a target="_blank" href.....>` 
 
 ————————————————
 
@@ -36,15 +36,15 @@ What do you consider before deciding to automate a test?
 
 # Answer 3
 I would consider these points below before deciding to automate a test.
-Is automation testing the only way to accomplish our team goal? 
-Eg. performing tasks which are difficult to do manual testing such as Regression Testing, Smoke Testing, Static & Repetitive Tests, Data Driven Testing and Load & Performance Testing. 
-What will be the benefits of automation test? 
-Will it save more time, support the needs of my team, give faster feedback?
-Will it improve productivity, test coverage and test accuracy?  
-What will be the risks of not doing automation test? 
-Do I need to test high traffic page, features that depend on security, and problematic areas?  
-How often am I going to run this test again in the future? 
-If we are going to test repeatedly for longer run, it will be better to do automation test. If we will be testing just for a few times, it’s better to do manual test. 
+- Is automation testing the only way to accomplish our team goal? 
+    - Eg. performing tasks which are difficult to do manual testing such as Regression Testing, Smoke Testing, Static &     Repetitive Tests, Data Driven Testing and Load & Performance Testing. 
+- What will be the benefits of automation test? 
+    - Will it save more time, support the needs of my team, give faster feedback?
+    - Will it improve productivity, test coverage and test accuracy?  
+- What will be the risks of not doing automation test? 
+    - Do I need to test high traffic page, features that depend on security, and problematic areas?  
+- How often am I going to run this test again in the future? 
+    - If we are going to test repeatedly for longer run, it will be better to do automation test. If we will be testing     just for a few times, it’s better to do manual test. 
 
 ————————————————
 
@@ -60,9 +60,9 @@ To decide how much testing is enough, I should check the result of testing. If I
 How would you test a 'responsive website' without being given any other instruction.
 
 # Answer 5
-By writing a test plan for different types of browsers and devices. 
-By minimising and maximising the browser, changing the view port sizes and see the behaviour of the website. 
-Check the website in different browsers and different devices to test if the website is responsive. 
+- By writing a test plan for different types of browsers and devices. 
+- By minimising and maximising the browser, changing the view port sizes and see the behaviour of the website. 
+- Check the website in different browsers and different devices to test if the website is responsive. 
 
 ————————————————
 
