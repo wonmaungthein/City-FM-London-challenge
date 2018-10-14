@@ -1,6 +1,4 @@
-# CHALLENGE: 
-
-# City-FM-London-challenge
+# CITY-FM-LONDON CHALLENGE: 
 
 Write Automated tests for https://www.capitalfm.com/digital/
 
