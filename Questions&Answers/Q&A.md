@@ -7,7 +7,6 @@ Note: A fully working executable test suite is not necessarily required. We are 
 
 # Answer 1: https://github.com/wonmaungthein/City-FM-London-challenge
 
-————————————————
 
 # Question 2
 Please highlight what you think it is wrong in the following piece of HTML code and modify it in order to open the register page in a separate tab.
@@ -30,7 +29,7 @@ Please highlight what you think it is wrong in the following piece of HTML code 
 - Instead of using `strong`, we should use CSS to style (not good to use HTML for styling)
 - To open the link in new page, you need `<a target="_blank" href.....>` 
 
-————————————————
+
 
 # Question 3
 What do you consider before deciding to automate a test?
@@ -47,7 +46,7 @@ I would consider these points below before deciding to automate a test.
 - How often am I going to run this test again in the future? 
     - If we are going to test repeatedly for longer run, it will be better to do automation test. If we will be testing     just for a few times, it’s better to do manual test. 
 
-————————————————
+
 
 # Question 4
 How much testing do you think is enough?
@@ -55,7 +54,7 @@ How much testing do you think is enough?
 # Answer 4
 To decide how much testing is enough, I should check the result of testing. If I find a lot of faults within a set of planned tests, more testing is needed to assure that the required level of software quality is achieved. If I find just very few faults with the planned set of tests and which are not risky for the application, I can assume that the testing is enough. I should also think about the risks of not testing enough. I should definitely test all priority features (should not miss any priority features). By missing out important features to test, can have severe issues for the application which will also affect the business, can lead more work for developers, waste more time and money.   
 
-————————————————
+
 
 # Question 5
 How would you test a 'responsive website' without being given any other instruction.
@@ -65,7 +64,7 @@ How would you test a 'responsive website' without being given any other instruct
 - By minimising and maximising the browser, changing the view port sizes and see the behaviour of the website. 
 - Check the website in different browsers and different devices to test if the website is responsive. 
 
-————————————————
+
 
 # Question 6 (Bonus)
 Write a function in Python; that given a key/value pair it will return True if there's an occurrence in a list of dictionaries.
