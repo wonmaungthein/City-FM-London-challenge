@@ -18,8 +18,11 @@ Go to main directory, run `npm install` then `npm start`.
 
 To run them on a headless browser: `npm run headless`
 
+# Questions and Answer
+
+The rest of the questions and answers can be found in Questions and Answer folder. [Q&A](https://github.com/wonmaungthein/City-FM-London-challenge/blob/master/Questions%26Answers/Q%26A.md)
+
 ## Some notes
 
-- Since the implementation of the menu is different between mobile screens and larger screens, the tests were broken into suites to accommodate differences
-    - On desktop, clicking on the location in header menu will give option to choose London station
-    - On mobile, the top-level links only toggle the submenu (the submenu items then give the option for the user to select the London station)
+- On desktop, clicking on the location in header menu will give option to choose London station
+- On mobile, the top-level links only toggle the submenu (the submenu items then give the option for the user to select the London station)
