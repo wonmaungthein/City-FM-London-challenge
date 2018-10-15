@@ -18,7 +18,7 @@ Go to main directory, run `npm install` then `npm start`.
 
 To run them on a headless browser: `npm run headless`
 
-# Questions and Answer
+## Questions and Answer
 
 The rest of the questions and answers can be found in Questions and Answer folder. [Q&A](https://github.com/wonmaungthein/City-FM-London-challenge/blob/master/Questions%26Answers/Q%26A.md)
 
