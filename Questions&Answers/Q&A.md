@@ -6,6 +6,7 @@ You should test the Now Playing module (.now_playing_card)on the right side of t
 Note: A fully working executable test suite is not necessarily required. We are interested in your 'use of selectors' and choice of 'logic'. A partial Class/Model or Pseudo Code would be sufficient for this task
 
 # Answer 1: https://github.com/wonmaungthein/City-FM-London-challenge
+# Test spec : https://github.com/wonmaungthein/City-FM-London-challenge/blob/master/cypress/integration/City-FM-radio-spec.js
 
 
 # Question 2
